@@ -1,5 +1,6 @@
-<h2>Layout Site Wolverine</h2>
+<h2>Game Mata Mosca</h2>
 
-Game Mata Mosca (Exemplo de Jogo)
+Game Mata Mosca (Exemplo de Jogo js)
+
 https://jean-cweb.github.io/Exp_Game_MataMosca/
 
